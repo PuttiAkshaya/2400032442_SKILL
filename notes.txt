@@ -1,1 +1,2 @@
 Git basics notes 
+Bug fix notes 
