@@ -1,2 +1,5 @@
-Git Lab Practice
-Version Control Basics
+<<<<<<< HEAD
+Local content
+=======
+GitHub content
+>>>>>>> origin/main
